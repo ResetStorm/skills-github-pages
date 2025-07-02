@@ -1,5 +1,5 @@
 ---
-title: Welcome to my exrcise
+title: Welcome to my exercise
 ---
 
 
